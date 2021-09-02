@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "citrix-winform-demo": {
+      "commandName": "Project",
+      "commandLineArgs": "--ws-url ws://localhost:9000"
+    }
+  }
+}
